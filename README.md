@@ -1,0 +1,2 @@
+Volume Control is a Python-based project that enables users to control their system's audio volume using hand gestures captured from a live video feed. Leveraging computer vision techniques, the application tracks the distance between the user's thumb and forefinger in real-time and adjusts the volume accordingly. The project provides an intuitive and interactive way to manage audio levels, offering potential applications in hands-free environments or accessibility scenarios.
+
